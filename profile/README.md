@@ -35,4 +35,4 @@ Read the docs and quick start at [vertique.dev](https://vertique.dev), or open a
 
 ---
 
-<sub>Open core under the [EUPL-1.2](https://github.com/vertiquehq/vertique/blob/main/LICENSE). Maintained by Koivisto Capital Oy.</sub>
+<sub>Open core under the [EUPL-1.2](https://github.com/vertiquehq/vertique/blob/main/LICENSE). Maintained by [Mika Koivisto](https://github.com/mikakoivisto).</sub>
